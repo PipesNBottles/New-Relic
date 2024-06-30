@@ -1,0 +1,4 @@
+__pycache__
+local.db
+.vscode
+*.egg-info
